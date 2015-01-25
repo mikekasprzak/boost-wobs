@@ -12,7 +12,7 @@ Here's what's included:
 * http://www.boost.org/doc/libs/1_57_0/libs/utility/operators.htm
 * Default:
   * No dependencies
-  * no std::iterator support.
+  * No std::iterator (boost::iterator) support.
 * With BOOST_OPERATORS_WITH_ITERATOR defined:
   * Requires <iterator> and <cstddef>
   * Everything works as documented
