@@ -1,4 +1,4 @@
-# Boost without Bullshit (boost-wo-bs)
+# Boost without Bullshit (boost-wobs)
 An open source hack by Mike Kasprzak.
 
 Boost without Bullshit is exactly what it says: a subset of Boost, without the BS. No configuration, no fat, add it directly to your project, and done. Where possible, the goal is to tweak the Boost headers so they don't require any external dependencies (config, workarounds, etc). The changes should be minimal, making it easier to upgrade components to newer versions.
